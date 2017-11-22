@@ -8,6 +8,7 @@ var g_interestedInFeatures = [
   'kill',
   'revived',
   'death',
+  'killer',
   'match',
   'rank',
   'me',
