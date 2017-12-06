@@ -11,6 +11,7 @@ var g_interestedInFeatures = [
   'killer',
   'match',
   'rank',
+  'location',
   'me',
   'team',
   'phase',
